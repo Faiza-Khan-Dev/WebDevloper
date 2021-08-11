@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+     max-width: 1280px;
+     margin: 0px auto;
+}
+#header{
+	background-color: black;
+	color: #ffff;
+}
+#logo{
+    width: 60%;
+	float: left;
+	padding-left: 130px;
+	padding-top: 32px;
+	box-sizing: border-box;
+	padding-bottom: 20px;
+}
+#nav-container ul li{
+	list-style:none;	
+	color:black;
+	float: left;
+	margin-right: 17px;
+    margin-top: 50px;
+}
+#nav-container ul li a{
+	color: #000000;
+	text-decoration: none;
+	color: #000000;;
+	font-weight: 200;
+    margin-top: 50px;
+}
+#nav-container ul li a:hover{
+	color: #fd0606;
+	text-decoration: underline;
+	background-color: white;
+}
+#video{
+    margin-left: 187px;
+    float: left;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+}
